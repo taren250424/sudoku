@@ -2,7 +2,7 @@
 
 A simple Sudoku game powered by a random puzzle generator.
 
-[https://hn250424.github.io/sudoku/](https://hn250424.github.io/sudoku/)
+[https://taren250424.github.io/sudoku/](https://taren250424.github.io/sudoku/)
 
 No installation needed. Just open and play!
 
